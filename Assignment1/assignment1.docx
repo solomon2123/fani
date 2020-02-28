@@ -1,0 +1,578 @@
+               
+
+Addis Ababa university
+Addis  Ababa Institute of technology
+  Center of Information and scientific computing
+Department of Software Engineering
+Fundamental of Web Design and Development
+  Assignment 1
+  Section 2
+
+Name ………………………………… Solomon Kassahun
+Id …………………………………………ATR/8624/11
+
+
+
+
+
+
+
+Submitted to Mr. Fitsum alemu
+    1) History of Internet(the Evolution)?
+Internet is the Network of Networks. It originates 40 years ago in the U.S military’s funding of research network dubbed arpanet in 1969. Internet follows the following paths too reach to the current situation
+    • Vannevar Bush writes about “memex”, a futuristic, automatic, personal library system(in 1943).
+    • ARPA does research on internet work connecting small and large network(in 1960).
+    • ARPA networking idea, RAND networking concept, NPL network concept, ARPA net planning, merit network were created in 1963,1964,1965,1966,1966 respectively.
+    • Doug Engelbart demonstrates NLS, a hypertext system that uses a “mouse”( in 1968)
+    • ARPANET goes online with 4 nodes ( in 1969)
+    • Request for Comments (RFC) created for quickly disseminating ideas with other network researchers (in 1969)
+Telnet allows user to login to a remote computer (RFC 15)
+    • Ray Tomlinson sends first email (send to himself  and probably read “QWERTYUIOP” 
+   FTP(file transfer protocol) allows files to be transferred between computer.
+    • ARPANET has 200 Nodes ( in 1981)
+    • ARPANET standardizes its use of TCP/IP to send data packets across the network ( in 1982)
+    • Domain Name System (DNS) developed ( in 1983)
+    • NSFNET established, would later become major part of the Internet backbone ( in 1985)
+    • Over 10,000 nodes on ARPANET. US military portion of ARPANET splits off into MILNET (military-only network) ( in 1986)
+    • Over 100,000 nodes on Internet ( in 1988)
+    • First Internet worm by Robert Tappan Morris crashes 6% of servers on Internet ( in 1988)
+    • Tim Berners-Lee and others at CERN develop the WorldWideWeb (WWW), HTML documents transmitted over the Internet by a web server to web browsers using URIs and HTTP (1st web page online on Aug 6, 1991) ( in 1990)
+    • ViolaWWW browser for UNIX 50 web servers ( in 1992)
+    • Netscape 2.0 – Supported plug-ins, frames, Java applets, JavaScript (in 1995)
+    • Internet Explorer 1.0 released by Microsoft ( in 1995)
+    • HTML 4.0 de facto standard ( in 1997)
+    • Network Solutions registers 2 millionth domain name (in 1998)
+    • Google founded by Larry Page and Sergey Brin (in 1998)
+    • Napster sued over music sharing (in 2000)
+     XHTML 1.0 recommended by W3C
+    • Wikipedia: encyclopedia that can be edited by anyone (in 2001)
+    • Blogs become popular ( in 2002)
+    • iTunes.com and other legal Internet music downloading services appear. iTunes.com registers 25th million song download in Dec (“Let It Snow! Let It Snow! Let It Snow!” by Frank Sinatra).(in 2003)
+    • Security problems (in 2003)
+    1) SQL Slammer worm - largest and fastest spreading distributed denial of service (DDoS) attacks ever
+    2) Sobig.F virus - the fastest spreading virus ever
+    3)  Blaster (MSBlast) worm – one of the most damaging worms ever
+    • MySpace and Facebook popularize online social networks (in 2004)
+    • YouTube founded by three former PayPal employees and sold to Google the next year for $1.65 Billion ( in 2005)
+    • Twitter launches 140 character limit microblogging service (in 2006)
+    • One of the first massive cyber attacks: Estonian websites attacked by Russian hackers after relocating the Bronze Solider of Tallinn monument (in 2007)
+    •  Firefox 3 sets Guinness World Record for the “largest number of software downloads in 24 hours.” (8M downloads) (in 2008)
+    • Google releases the Chrome web browser (in 2008)
+    • W3C releases First Public Working Draft of HTML5 spec (in 2008)
+    • ICANN reveals 1,410 new generic top-level domains (gTLDs) like .apple, .catholic, and .dad (in 2012)
+    • Mobile devices account for 18% of all web page views (StatCounter) (in 2013)
+    1) View the 5 - 10 popular website on your choice from the web achieve URL and put your observation and assessment
+     As I see from the website , most of the website are created for educational, economical(marketing) and political purpose. Some of them are the following:
+    1. https://web.archive.org/web/20131018071258/https://www.reference.com/
+  This website acts as a online Encyclopedia. It contains the dictionary,quotes ,games and languages even though its interface did not attract me it is so important website and one of the most visited website. It created for education and a vacation purpose.
+    2. https://web.archive.org/web/20131001031539/https://www.reddit.com/
+   This website is a social sharing website.It's built around users submitting links, pictures,video and text, which everyone can then vote on. The best content rises to the top, while less voted content becomes less visible. As I evaluate this website even if it is important website for a vacation if home page does not attract me.otherwise it is well organized and easily interact with the internet so in my view it is one of the best website from the billions website. Finally it is one of the most visited website
+    3. https://web.archive.org/web/20131021020703/https://www.cnet.c
+om/
+ This website is created for education,economical and political purpose . I think the main goal of this website is to  make the business easy by allowing the user to sell item online in short it acts like amazon website   
+    4. https://web.archive.org/web/20100915000000*/https://www.google.com/
+   It serves as a search engine. It collects every information that user asks and display the information that they want
+    5. https://web.archive.org/web/20050204004733/https://www.amazon.com/exec/obidos/subst/home/home.html
+   This website is created for economical purpose. It allows the user to market goods(item) online. it allows the user to sell what they need from any where
+    6. https://web.archive.org/web/20131001014236/https://www.nytimes.com/
+   This website is created for to give information(knowledge) about the economical,social,political condition of the world 
+
+    2) List 5 website each on 12 categories you learned try to view their look in different year of web archives
+The five website that I visited are the following
+    1) https://web.archive.org/web/20131018071258/https://www.reference.com/
+Different version of the reference website are different in terms of captures,URLS and new URLS that it contains. Let us demonstrate the difference in the following table
+
+capture
+URLS
+New URLS
+1996
+19
+18
+18
+1997
+1254
+1130
+1127
+1998
+195
+36
+3
+1999
+772
+516
+513
+2000
+
+
+
+2001
+
+
+
+2002
+
+
+
+2003
+
+
+
+2004
+
+
+
+2005
+
+
+
+2006
+
+
+
+2007
+
+
+
+2008
+
+
+
+2009
+
+
+
+2010
+
+
+
+2011
+
+
+
+2012
+
+
+
+2013
+
+
+
+2014
+
+
+
+2013
+
+
+
+2016
+
+
+
+2017
+
+
+
+2018
+
+
+
+2019
+
+
+
+
+    2) https://web.archive.org/web/20131001031539/https://www.reddit.com/
+The difference between different version of reddit website is in terms of captures,URLS and new URLS that it contains. Let us see the difference in the following table
+
+captures
+URLS
+New URLS
+2002
+6
+1
+1
+2003
+4
+1
+0
+2004
+0
+0
+0
+2005
+1165
+338
+334
+2006
+
+
+
+2007
+
+
+
+2008
+
+
+
+2009
+
+
+
+2010
+
+
+
+2011
+
+
+
+2012
+
+
+
+2013
+
+
+
+2014
+
+
+
+2015
+
+
+
+2016
+
+
+
+2017
+
+
+
+2018
+
+
+
+2019
+
+
+
+ 
+    3) https://web.archive.org/web/20100915000000*/https://www.google.com/
+  The main difference between different version of Google website are in captures,URLS and the new URLS that it contains. In the following table I show the difference in different years.
+
+captures
+URLS
+New URLS
+1998
+6
+1
+1
+1999
+498
+291
+285
+2000
+109,138
+59,375
+58975
+2001
+103,048
+41343
+36391
+2002
+103775
+56646
+34832
+2003
+123330
+
+
+2004
+
+
+
+2005
+
+
+
+2006
+
+
+
+2007
+
+
+
+2008
+
+
+
+2009
+
+
+
+2010
+
+
+
+2011
+
+
+
+2012
+
+
+
+2013
+
+
+
+2014
+
+
+
+2015
+
+
+
+2016
+
+
+
+2017
+
+
+
+2018
+
+
+
+2019
+
+
+
+
+    4) https://web.archive.org/web/20050204004733/https://www.amazon.com/exec/obidos/subst/home/home.html
+ The difference between different version of amazon website are in terms of captures,URLS and new URLS. Let us demonstrate the difference in the following table
+
+captures
+URLS
+New URLS
+1996
+2583
+2558
+2558
+1997
+0
+0
+0
+1998
+3735
+3721
+3721
+1999
+
+
+
+2000
+
+
+
+2001
+
+
+
+2002
+
+
+
+2003
+
+
+
+2004
+
+
+
+2005
+
+
+
+2006
+
+
+
+2007
+
+
+
+2008
+
+
+
+2009
+
+
+
+2010
+
+
+
+2011
+
+
+
+2012
+
+
+
+2013
+
+
+
+2014
+
+
+
+2015
+
+
+
+2016
+
+
+
+2017
+
+
+
+2018
+
+
+
+2019
+
+
+
+
+
+    5) https://web.archive.org/web/20131001014236/https://www.nytimes.com/
+ The main difference between different version of nytimes are in terms of captures,URLS and new URLS. Let us demonstrate the difference in the following table
+
+captures
+URLS
+New URLS
+1996
+408
+164
+164
+1997
+204
+93
+18
+1998
+7
+1
+0
+1999
+1713
+1298
+1050
+2000
+
+
+
+2001
+
+
+
+2002
+
+
+
+2003
+
+
+
+2004
+
+
+
+2005
+
+
+
+2006
+
+
+
+2007
+
+
+
+2008
+
+
+
+2009
+
+
+
+2010
+
+
+
+2011
+
+
+
+2012
+
+
+
+2013
+
+
+
+2014
+
+
+
+2015
+
+
+
+2016
+
+
+
+2017
+
+
+
+2018
+
+
+
+2019
+
+
+
+
+   
+   
+
+
+
+
+
+
+
+
+
+
+ 
